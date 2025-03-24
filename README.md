@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, this is Norah — or in short, Nora! 😊
 
-<!--
-**Nouraalm1/Nouraalm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently pursuing a **Master of Applied Computing**, with a Bachelor's degree in **Computer Science and Engineering**.
 
-Here are some ideas to get you started:
+💻 I have experience working with:
+- **Java**
+- **Python**
+- **MySQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ During my bachelor's, I took a **Software Engineering** course that sparked my interest in this field. It motivated me to join this course to further deepen my understanding of **development and design**.
+
+🌐 I’m also excited to dive deeper into **web development**, explore various **frameworks**, and find the one that best suits my needs for building well-structured and efficient web applications.
+
+🚀 Looking forward to growing my skills and building something awesome!
+
+🔗 [My Customized GitHub Profile](https://github.com/Nouraalm1/Nouraalm1/)
